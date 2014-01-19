@@ -1,8 +1,6 @@
 PersianPoSTagger
 ================
 
-The code for training a Maximum Entropy Persian Part of Speech Tagger based on OpenNLP
-
 The purpose of this project is to train a MaxEnt (Maximum Entropy) Persian Part of Speech Tagger.The project includes three parts:
 
 ## 1. Port: 
@@ -68,7 +66,7 @@ This is my first stab at it. No real evaluation is performed on the model. It is
 
 To begin with, اوباما is not a proposition. Most probably, the model picked it up as a proposition because of با or او. So that was interesting. THANKS OBAMA! Other than that, I have to refresh my Farsi grammar, but I also don't think that تغییراتی is NSING. Yet the model picked اطلاعات as plural noun which is very similar to تغییراتی. I think ی نکره is taken into account - so really don't know if that should be plural or singular.
 
-Anyhow, This is a good start for now. Any suggestion and/or corrections are welcomed.
+Anyhow, this is a good start for now. Any suggestion and/or corrections are welcomed.
 
 Cheers!
 هیچ هکر
