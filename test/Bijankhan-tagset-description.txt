@@ -3,17 +3,17 @@
 	Tag		Description
 	----------------------------------
 	ADJ		Adjective, General
-	ADJ_CMPR	Adjective, Comparative
-	ADJ_INO		Past Participle
-	ADJ_ORD		Adjective, Ordinal
-	ADJ_SIM		Adjective, Simple
-	ADJ_SUP		Adjective, Superlative
+	ADJCMPR	Adjective, Comparative
+	ADJINO		Past Participle
+	ADJORD		Adjective, Ordinal
+	ADJSIM		Adjective, Simple
+	ADJSUP		Adjective, Superlative
 	ADV		Adverb, General
-	ADV_EXM		Adverb, Exemplar
-	ADV_I		Adverb, Question
-	ADV_NEGG	Adverb, Negation
-	ADV_NI		Adverb, Not Question
-	ADV_TIME	Adverb, Time
+	ADVEXM		Adverb, Exemplar
+	ADVI		Adverb, Question
+	ADVNEGG	Adverb, Negation
+	ADVNI		Adverb, Not Question
+	ADVTIME	Adverb, Time
 	AR		Arabic Word
 	CON		Conjunction
 	DEFAULT		Default
@@ -36,9 +36,9 @@
 	PS		Psedo-Sentence
 	QUA		Quantifier
 	SPEC		Specifier
-	V_AUX		Verb, Auxiliary
-	V_IMP		Verb, Imperative
-	V_PA		Verb, Past Tense
-	V_PRE		Verb, Predicative
-	V_PRS		Verb, Present Tense
-	V_SUB		Verb, Subjunctive
+	VAUX		Verb, Auxiliary
+	VIMP		Verb, Imperative
+	VPA		Verb, Past Tense
+	VPRE		Verb, Predicative
+	VPRS		Verb, Present Tense
+	VSUB		Verb, Subjunctive
